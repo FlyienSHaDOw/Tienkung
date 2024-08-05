@@ -1,5 +1,8 @@
 # **USD File of TienKung, a humanoid robot from Beijing Innovation Center of Humanoid Robotics**
 
+![MarkdownPicture](https://github.com/FlyienSHaDOw/Tienkung/blob/main/img/TienKung.png)
+
+
 # 1. Introduction
 
 1.The world's first full-size fully electric-driven embodied intelligent robot capable of anthropomorphic running.  
@@ -49,4 +52,4 @@ numpy==1.21.0
 scipy==1.7.1  
 
 
-
+![MarkdownPicture](https://github.com/FlyienSHaDOw/Tienkung/blob/main/img/leaflet.png)
